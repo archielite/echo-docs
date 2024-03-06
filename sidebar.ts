@@ -35,11 +35,5 @@ export default [
       { text: 'Backup', link: '/echo/plugin-backup' },
       { text: 'Newsletter', link: '/echo/usage-newsletter' },
     ],
-  },
-  {
-    text: 'Development',
-    items: [
-      { text: 'Rename theme', link: '/echo/theme-rename' },
-    ]
   }
 ] satisfies DefaultTheme.SidebarItem[]

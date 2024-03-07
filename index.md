@@ -32,7 +32,7 @@ so much!
 * 100% Fully Responsive: Whatever you are using the device your site will run as it should be.
 * Powerful admin panel, all things can be changed from the admin panel, no hardcode.
 * Nice and clean design from our designer expert.
-* Easy to install with UI - [How to install a script based on Botble CMS](https://www.youtube.com/watch?v=iam99NkUIu0).
+* Easy to install with UI - [How to install a script based on Botble CMS](https://www.youtube.com/watch?v=Ox2WgQqOQoQ).
 * Multi-language: unlimited language support.
 * Google Analytics: display analytics data in the admin panel.
 * Translation tool: easy to translate the front theme and admin panel to your language.
